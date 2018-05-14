@@ -23,6 +23,7 @@ learning_rate = 0.0001
 epochs = 50
 save_path = './model/'
 
+
 dims_avg = {'Cyclist': np.array([ 1.73532436,  0.58028152,  1.77413709]),
             'Van': np.array([ 2.18928571,  1.90979592,  5.07087755]),
             'Tram': np.array([  3.56092896,   2.39601093,  18.34125683]),
