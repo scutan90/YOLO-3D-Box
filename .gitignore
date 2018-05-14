@@ -1,0 +1,4 @@
+*.weights
+*.index
+*.meta
+./model_data/*
